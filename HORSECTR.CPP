@@ -66,7 +66,7 @@ void avto(cell CB[S][S])
   cho=0;           			       // Š®«¨ç¥áâ¢® á¤¥« ­ëå å®¤®¢;
   brk=0;            			       // “áâ ­®¢ª  § ¤¥à¦ª¨ ¢ ­®«ì;
   reg=1;                               // ¥¦¨¬  ¢â®¬ â¨ç¥áª®£® ¢ë¡®à  å®¤ ;
-  VIZ=0;
+  VIZ=0; 
 	
   for(vertical=0;vertical<S;vertical++)      // –¨ª« ®¡à ¡®âª¨ ¢á¥© ¬ âà¨æë;
    for(skyline=0; skyline<S;skyline++)
